@@ -1,0 +1,36 @@
+.heading{
+    margin-top:0px;
+    width: 100%;
+    box-shadow: 5px 5px 25px #7D5C65;
+    font-size: 20px;
+    background-color: aqua;
+}
+
+.note{
+    font-size: 13px;
+    color: #E8B4BC;
+}
+
+canvas{
+    border: 5px groove #E6FDFF;
+    border-radius: 30px;
+}
+
+#footer{
+    position: fixed;
+    bottom: 0px;
+    background-color: #348AA7;
+    width:100%;
+    font-size: 15px;
+    padding: 12px;
+    text-align: center;
+}
+
+video{
+    border: 5px dotted #270722;
+    border-radius: 40px;
+}
+
+body{
+    background-image: url("Blue-Flower.jpg");
+}
